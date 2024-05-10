@@ -1,0 +1,10 @@
+Name=Jahidul Islam 
+Age=23
+Name=Aple Mahmud 
+Age=22
+
+Name=Jalish 
+Age=35
+
+Name=Rasel  
+Age=20

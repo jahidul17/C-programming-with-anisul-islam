@@ -1,0 +1,16 @@
+#ifndef LIBARYFUNCTION_
+#define LIBARYFUNCTION_
+
+
+class libaryFunction
+{
+    public:
+        libaryFunction();
+        virtual ~libaryFunction();
+
+    protected:
+
+    private:
+};
+
+#endif // LIBARYFUNCTION_

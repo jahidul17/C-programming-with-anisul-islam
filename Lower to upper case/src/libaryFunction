@@ -1,0 +1,12 @@
+//Case conversation.
+#include<stdio.stdio.h>
+void casee(){
+
+    char upper,lower;
+    printf("Enter lower case:");
+    scanf("%c",&lower);
+
+    upper= toupper(lower);
+    printf("%c of upper case is:",upper);
+
+}
